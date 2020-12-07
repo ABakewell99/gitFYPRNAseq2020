@@ -1,0 +1,9 @@
+Sample	Unassigned_Ambiguity	Unassigned_Singleton	Unassigned_MappingQuality	percent_assigned	Unassigned_Duplicate	Unassigned_Chimera	Unassigned_Unmapped	Assigned	Unassigned_Read_Type	Unassigned_MultiMapping	Unassigned_Overlapping_Length	Unassigned_Secondary	Unassigned_FragmentLength	Unassigned_NoFeatures	Total	Unassigned_NonSplit
+CD24Mid-1.filtered	157775	0	0	77.5945640677	0	0	155585	3071504	0	256408	0	0	0	317129	3958401	0
+CD24Mid-3.filtered	163587	0	0	76.8432630942	0	0	152285	3089269	0	286819	0	0	0	328261	4020221	0
+CD24Mid-5.filtered	157337	0	0	76.3443174832	0	0	153616	3223877	0	279844	0	0	0	408138	4222812	0
+CD24Mid-7.filtered	159190	0	0	75.9614061792	0	0	154699	3362598	0	324355	0	0	0	425877	4426719	0
+CD24Neg-2.filtered	61621	0	0	77.1930251621	0	0	113892	1553857	0	107723	0	0	0	175857	2012950	0
+CD24Neg-4.filtered	63423	0	0	76.7407707949	0	0	120711	1645537	0	123491	0	0	0	191118	2144280	0
+CD24Neg-6.filtered	98110	0	0	78.0764592901	0	0	144789	2665040	0	202427	0	0	0	303006	3413372	0
+CD24Neg-8.filtered	63289	0	0	75.7220452699	0	0	129849	1693388	0	126123	0	0	0	223672	2236321	0

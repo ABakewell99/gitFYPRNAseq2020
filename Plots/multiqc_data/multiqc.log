@@ -1,0 +1,150 @@
+[2020-11-10 12:29:54,302] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/ab2784/anaconda3/envs/bioinformatics/lib/python2.7/site-packages/multiqc-1.0.dev0-py2.7.egg/multiqc_config.yaml
+[2020-11-10 12:29:54,302] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/ab2784/.multiqc_config.yaml
+[2020-11-10 12:29:54,303] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2020-11-10 12:29:54,303] multiqc                                            [DEBUG  ]  Command used: /home/ab2784/anaconda3/envs/bioinformatics/bin/multiqc -f .
+[2020-11-10 12:29:54,303] multiqc                                            [DEBUG  ]  Could not connect to multiqc.info for version check
+[2020-11-10 12:29:54,303] multiqc                                            [INFO   ]  This is MultiQC v1.0.dev0
+[2020-11-10 12:29:54,304] multiqc                                            [DEBUG  ]  Command     : /home/ab2784/anaconda3/envs/bioinformatics/bin/multiqc -f .
+[2020-11-10 12:29:54,304] multiqc                                            [DEBUG  ]  Working dir : /mnt/d/RNA-Seq
+[2020-11-10 12:29:54,304] multiqc                                            [INFO   ]  Template    : default
+[2020-11-10 12:29:54,304] multiqc                                            [DEBUG  ]  Running in --force mode, will overwrite any existing reports.
+[2020-11-10 12:29:54,304] multiqc                                            [INFO   ]  Searching '.'
+[2020-11-10 12:29:54,305] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, peddy, methylQA, qualimap, preseq, quast, rseqc, busco, goleft_indexcov, snpeff, gatk, htseq, bcftools, featureCounts, picard, prokka, samblaster, samtools, bamtools, bismark, hicup, salmon, kallisto, slamdunk, star, tophat, bowtie2, bowtie1, cutadapt, trimmomatic, skewer, fastq_screen, fastqc, clusterflow
+[2020-11-10 12:29:54,306] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpgfl1qZ
+[2020-11-10 12:29:54,484] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_dirs: ./multiqc_data
+[2020-11-10 12:29:54,518] multiqc                                            [DEBUG  ]  Ignoring file as is encoded: grcm38_snptran.tar.gz
+[2020-11-10 12:29:54,520] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: mm10-allGenes.gtf
+[2020-11-10 12:29:54,521] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: mm10-chr11.gtf
+[2020-11-10 12:29:54,523] multiqc                                            [DEBUG  ]  Ignoring file as is encoded: mm10.blacklist.bed.gz
+[2020-11-10 12:29:54,526] multiqc                                            [DEBUG  ]  Ignoring file as too large: mm10chr11.zip
+[2020-11-10 12:29:54,581] multiqc                                            [DEBUG  ]  Ignoring file as too large: genome_snp_tran.1.ht2
+[2020-11-10 12:29:54,586] multiqc                                            [DEBUG  ]  Ignoring file as too large: genome_snp_tran.2.ht2
+[2020-11-10 12:29:54,596] multiqc                                            [DEBUG  ]  Ignoring file as too large: genome_snp_tran.4.ht2
+[2020-11-10 12:29:54,602] multiqc                                            [DEBUG  ]  Ignoring file as too large: genome_snp_tran.5.ht2
+[2020-11-10 12:29:54,607] multiqc                                            [DEBUG  ]  Ignoring file as too large: genome_snp_tran.6.ht2
+[2020-11-10 12:29:54,613] multiqc                                            [DEBUG  ]  Ignoring file as too large: genome_snp_tran.7.ht2
+[2020-11-10 12:29:54,618] multiqc                                            [DEBUG  ]  Ignoring file as too large: genome_snp_tran.8.ht2
+[2020-11-10 12:29:54,670] multiqc                                            [DEBUG  ]  Ignoring file as too large: mm10chr11.1.ht2
+[2020-11-10 12:29:54,676] multiqc                                            [DEBUG  ]  Ignoring file as too large: mm10chr11.2.ht2
+[2020-11-10 12:29:54,686] multiqc                                            [DEBUG  ]  Ignoring file as too large: mm10chr11.4.ht2
+[2020-11-10 12:29:54,692] multiqc                                            [DEBUG  ]  Ignoring file as too large: mm10chr11.5.ht2
+[2020-11-10 12:29:54,697] multiqc                                            [DEBUG  ]  Ignoring file as too large: mm10chr11.6.ht2
+[2020-11-10 12:29:54,898] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_dirs: ./raw-fastq/multiqc_data
+[2020-11-10 12:29:54,901] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-1-R1.fastq.gz
+[2020-11-10 12:29:54,914] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-1-R2.fastq.gz
+[2020-11-10 12:29:54,926] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-3-R1.fastq.gz
+[2020-11-10 12:29:54,941] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-3-R2.fastq.gz
+[2020-11-10 12:29:54,954] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-5-R1.fastq.gz
+[2020-11-10 12:29:54,967] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-5-R2.fastq.gz
+[2020-11-10 12:29:54,981] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-7-R1.fastq.gz
+[2020-11-10 12:29:54,994] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-7-R2.fastq.gz
+[2020-11-10 12:29:55,007] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-2-R1.fastq.gz
+[2020-11-10 12:29:55,020] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-2-R2.fastq.gz
+[2020-11-10 12:29:55,031] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-4-R1.fastq.gz
+[2020-11-10 12:29:55,047] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-4-R2.fastq.gz
+[2020-11-10 12:29:55,060] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-6-R1.fastq.gz
+[2020-11-10 12:29:55,072] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-6-R2.fastq.gz
+[2020-11-10 12:29:55,082] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-8-R1.fastq.gz
+[2020-11-10 12:29:55,094] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-8-R2.fastq.gz
+[2020-11-10 12:29:55,422] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-1-R1-trim.fastq.gz
+[2020-11-10 12:29:55,424] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-1-R2-trim.fastq.gz
+[2020-11-10 12:29:55,427] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-1.bam
+[2020-11-10 12:29:55,434] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-1.filtered.bam
+[2020-11-10 12:29:55,442] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-1.sort.bam
+[2020-11-10 12:29:55,450] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-1.sort.filtered.bam
+[2020-11-10 12:29:55,458] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-3-R1-trim.fastq.gz
+[2020-11-10 12:29:55,461] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-3-R2-trim.fastq.gz
+[2020-11-10 12:29:55,464] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-3.bam
+[2020-11-10 12:29:55,471] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-3.filtered.bam
+[2020-11-10 12:29:55,479] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-3.sort.bam
+[2020-11-10 12:29:55,487] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-3.sort.filtered.bam
+[2020-11-10 12:29:55,494] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-5-R1-trim.fastq.gz
+[2020-11-10 12:29:55,497] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-5-R2-trim.fastq.gz
+[2020-11-10 12:29:55,500] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-5.bam
+[2020-11-10 12:29:55,507] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-5.filtered.bam
+[2020-11-10 12:29:55,515] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-5.sort.bam
+[2020-11-10 12:29:55,522] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-5.sort.filtered.bam
+[2020-11-10 12:29:55,530] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-7-R1-trim.fastq.gz
+[2020-11-10 12:29:55,532] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-7-R2-trim.fastq.gz
+[2020-11-10 12:29:55,535] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-7.bam
+[2020-11-10 12:29:55,542] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-7.filtered.bam
+[2020-11-10 12:29:55,552] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-7.sort.bam
+[2020-11-10 12:29:55,560] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Mid-7.sort.filtered.bam
+[2020-11-10 12:29:55,568] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-2-R1-trim.fastq.gz
+[2020-11-10 12:29:55,570] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-2-R2-trim.fastq.gz
+[2020-11-10 12:29:55,573] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-2.bam
+[2020-11-10 12:29:55,581] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-2.filtered.bam
+[2020-11-10 12:29:55,589] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-2.sort.bam
+[2020-11-10 12:29:55,597] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-2.sort.filtered.bam
+[2020-11-10 12:29:55,604] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-4-R1-trim.fastq.gz
+[2020-11-10 12:29:55,607] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-4-R2-trim.fastq.gz
+[2020-11-10 12:29:55,609] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-4.bam
+[2020-11-10 12:29:55,617] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-4.filtered.bam
+[2020-11-10 12:29:55,624] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-4.sort.bam
+[2020-11-10 12:29:55,632] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-4.sort.filtered.bam
+[2020-11-10 12:29:55,639] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-6-R1-trim.fastq.gz
+[2020-11-10 12:29:55,643] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-6-R2-trim.fastq.gz
+[2020-11-10 12:29:55,645] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-6.bam
+[2020-11-10 12:29:55,652] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-6.filtered.bam
+[2020-11-10 12:29:55,661] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-6.sort.bam
+[2020-11-10 12:29:55,668] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-6.sort.filtered.bam
+[2020-11-10 12:29:55,676] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-8-R1-trim.fastq.gz
+[2020-11-10 12:29:55,679] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-8-R2-trim.fastq.gz
+[2020-11-10 12:29:55,681] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-8.bam
+[2020-11-10 12:29:55,689] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-8.filtered.bam
+[2020-11-10 12:29:55,697] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-8.sort.bam
+[2020-11-10 12:29:55,706] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: CD24Neg-8.sort.filtered.bam
+[2020-11-10 12:29:57,525] multiqc.modules.custom_content.custom_content      [DEBUG  ]  No custom content found
+[2020-11-10 12:29:57,579] multiqc.modules.peddy.peddy                        [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:29:57,595] multiqc.modules.methylQA.methylQA                  [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:29:57,603] multiqc.modules.qualimap.QM_BamQC                  [DEBUG  ]  Using default Qualimap thresholds: 1, 5, 10, 30, 50
+[2020-11-10 12:29:57,684] multiqc.modules.qualimap.qualimap                  [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:30:05,926] multiqc.modules.preseq.preseq                      [DEBUG  ]  Could not find any preseq data in ('.',)
+[2020-11-10 12:30:05,941] multiqc.modules.quast.quast                        [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:30:24,778] multiqc.modules.rseqc.rseqc                        [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:30:24,792] multiqc.modules.busco.busco                        [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:30:24,815] multiqc.modules.goleft_indexcov.goleft_indexcov    [DEBUG  ]  Did not find goleft indexcov outputs in ('.',)
+[2020-11-10 12:30:28,924] multiqc.modules.snpeff.snpeff                      [DEBUG  ]  Could not find any data in ('.',)
+[2020-11-10 12:30:32,149] multiqc.modules.gatk.gatk                          [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:30:36,112] multiqc.modules.htseq.htseq                        [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:30:40,081] multiqc.modules.bcftools.bcftools                  [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:30:40,131] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Duplicate sample name found! Overwriting: CD24Mid-1.filtered
+[2020-11-10 12:30:40,159] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Duplicate sample name found! Overwriting: CD24Mid-3.filtered
+[2020-11-10 12:30:40,186] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Duplicate sample name found! Overwriting: CD24Mid-5.filtered
+[2020-11-10 12:30:40,212] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Duplicate sample name found! Overwriting: CD24Mid-7.filtered
+[2020-11-10 12:30:40,241] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Duplicate sample name found! Overwriting: CD24Neg-2.filtered
+[2020-11-10 12:30:40,268] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Duplicate sample name found! Overwriting: CD24Neg-4.filtered
+[2020-11-10 12:30:40,296] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Duplicate sample name found! Overwriting: CD24Neg-6.filtered
+[2020-11-10 12:30:40,322] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Duplicate sample name found! Overwriting: CD24Neg-8.filtered
+[2020-11-10 12:30:40,324] multiqc.modules.featureCounts.feature_counts       [INFO   ]  Found 8 reports
+[2020-11-10 12:31:30,551] multiqc.modules.picard.picard                      [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:31:30,739] multiqc.modules.prokka.prokka                      [DEBUG  ]  Could not find any Prokka data in ('.',)
+[2020-11-10 12:31:34,531] multiqc.modules.samblaster.samblaster              [DEBUG  ]  Could not find any data in ('.',)
+[2020-11-10 12:31:46,796] multiqc.modules.samtools.samtools                  [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:31:51,274] multiqc.modules.bamtools.bamtools                  [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:31:51,329] multiqc.modules.bismark.bismark                    [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:31:51,340] multiqc.modules.hicup.hicup                        [DEBUG  ]  Could not find any HiCUP data in ('.',)
+[2020-11-10 12:31:51,361] multiqc.modules.salmon.salmon                      [DEBUG  ]  Could not find any Salmon data in ('.',)
+[2020-11-10 12:31:55,560] multiqc.modules.kallisto.kallisto                  [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:32:18,735] multiqc.modules.slamdunk.slamdunk                  [DEBUG  ]  No slamdunk reports found.
+[2020-11-10 12:32:18,762] multiqc.modules.star.star                          [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:32:18,773] multiqc.modules.tophat.tophat                      [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:32:23,331] multiqc.modules.bowtie2.bowtie2                    [INFO   ]  Found 8 reports
+[2020-11-10 12:32:26,670] multiqc.modules.bowtie1.bowtie1                    [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:32:30,738] multiqc.modules.cutadapt.cutadapt                  [INFO   ]  Found 8 reports
+[2020-11-10 12:32:34,228] multiqc.modules.trimmomatic.trimmomatic            [DEBUG  ]  Could not find any Trimmomatic data in ('.',)
+[2020-11-10 12:32:37,223] multiqc.modules.skewer.skewer                      [DEBUG  ]  Could not find any data in ('.',)
+[2020-11-10 12:32:37,236] multiqc.modules.fastq_screen.fastq_screen          [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:32:39,977] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 16 reports
+[2020-11-10 12:32:40,921] multiqc.modules.clusterflow.clusterflow            [DEBUG  ]  Could not find any reports in ('.',)
+[2020-11-10 12:32:40,930] multiqc                                            [WARNING]  Deleting    : multiqc_report.html   (-f was specified)
+[2020-11-10 12:32:41,064] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2020-11-10 12:32:41,069] multiqc                                            [WARNING]  Deleting    : multiqc_data   (-f was specified)
+[2020-11-10 12:32:41,215] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2020-11-10 12:32:41,216] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpgfl1qZ/multiqc_data/multiqc_fastqc.txt' to '/mnt/d/RNA-Seq/multiqc_data'
+[2020-11-10 12:32:41,253] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpgfl1qZ/multiqc_data/multiqc_cutadapt.txt' to '/mnt/d/RNA-Seq/multiqc_data'
+[2020-11-10 12:32:41,277] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpgfl1qZ/multiqc_data/multiqc_general_stats.txt' to '/mnt/d/RNA-Seq/multiqc_data'
+[2020-11-10 12:32:41,319] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpgfl1qZ/multiqc_data/multiqc_bowtie2.txt' to '/mnt/d/RNA-Seq/multiqc_data'
+[2020-11-10 12:32:41,354] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpgfl1qZ/multiqc_data/multiqc_featureCounts.txt' to '/mnt/d/RNA-Seq/multiqc_data'
+[2020-11-10 12:32:41,383] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpgfl1qZ/multiqc_data/multiqc_sources.txt' to '/mnt/d/RNA-Seq/multiqc_data'
+[2020-11-10 12:32:41,803] multiqc                                            [INFO   ]  MultiQC complete

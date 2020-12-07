@@ -1,0 +1,27 @@
+library(edgeR)
+setwd("d:/RNA-Seq/trimmed-fastq/featureCounts")
+allCounts = NULL
+#Loop through sample names
+for (sample in c('CD24Mid-1', 'CD24Neg-2', 'CD24Mid-3', 'CD24Neg-4', 'CD24Mid-5', 'CD24Neg-6', 'CD24Mid-7', 'CD24Neg-8')) {
+  #Define filename from sample name
+  filename = paste(sample, '.counts.txt', sep='')
+  #Read feature counts result
+  counts = read.table(filename, header=TRUE)
+  #Remove all other columns except geneid and counts
+  counts = counts[, -c(2:6), drop=FALSE]
+  #Rename columns
+  colnames(counts) = c('Geneid', sample)
+  #Merge across samples
+  if (is.null(allCounts)) {
+    allCounts = counts #No need to merge for 1st sample
+  } else {
+    allCounts = merge(allCounts, counts, by="Geneid")
+  }
+}
+#Set row names to Gene IDS
+row.names(allCounts) = allCounts[,1]
+#Drop redundant Gene ID columns
+allCounts = allCounts[,-1]
+
+#Read into DGEList for edgeR
+counts = DGEList(counts = allCounts)

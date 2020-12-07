@@ -1,0 +1,17 @@
+Sample	adapter_content	Sequences flagged as poor quality	sequence_duplication_levels	avg_sequence_length	Encoding	per_base_sequence_quality	sequence_length_distribution	Sequence length	File type	basic_statistics	per_sequence_gc_content	Total Sequences	per_base_n_content	per_base_sequence_content	overrepresented_sequences	%GC	total_deduplicated_percentage	Filename	per_tile_sequence_quality	per_sequence_quality_scores
+CD24Mid-1-R1	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	warn	1909188.0	pass	fail	pass	51.0	55.23909436	CD24Mid-1-R1.fastq.gz	warn	pass
+CD24Mid-1-R2	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	warn	1909188.0	pass	fail	pass	51.0	57.4063302881	CD24Mid-1-R2.fastq.gz	warn	pass
+CD24Mid-3-R1	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	pass	1930800.0	pass	fail	pass	51.0	54.9529009337	CD24Mid-3-R1.fastq.gz	warn	pass
+CD24Mid-3-R2	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	pass	1930800.0	pass	fail	pass	51.0	57.4706733316	CD24Mid-3-R2.fastq.gz	warn	pass
+CD24Mid-5-R1	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	pass	2031147.0	pass	fail	pass	50.0	56.8808153396	CD24Mid-5-R1.fastq.gz	warn	pass
+CD24Mid-5-R2	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	pass	2031147.0	pass	fail	pass	50.0	59.036697947	CD24Mid-5-R2.fastq.gz	warn	pass
+CD24Mid-7-R1	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	pass	2115974.0	pass	fail	pass	50.0	56.6594563222	CD24Mid-7-R1.fastq.gz	warn	pass
+CD24Mid-7-R2	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	pass	2115974.0	pass	fail	pass	50.0	59.0226329619	CD24Mid-7-R2.fastq.gz	warn	pass
+CD24Neg-2-R1	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	warn	992385.0	pass	fail	warn	52.0	59.282810955	CD24Neg-2-R1.fastq.gz	warn	pass
+CD24Neg-2-R2	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	warn	992385.0	pass	fail	warn	52.0	61.6713678342	CD24Neg-2-R2.fastq.gz	warn	pass
+CD24Neg-4-R1	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	warn	1051418.0	pass	fail	warn	52.0	60.5816409942	CD24Neg-4-R1.fastq.gz	warn	pass
+CD24Neg-4-R2	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	warn	1051418.0	pass	fail	warn	52.0	63.9466055217	CD24Neg-4-R2.fastq.gz	warn	pass
+CD24Neg-6-R1	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	warn	1657198.0	pass	fail	pass	51.0	55.3128611507	CD24Neg-6-R1.fastq.gz	warn	pass
+CD24Neg-6-R2	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	warn	1657198.0	pass	fail	pass	51.0	57.855399161	CD24Neg-6-R2.fastq.gz	warn	pass
+CD24Neg-8-R1	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	warn	1099892.0	pass	fail	warn	52.0	60.2868848928	CD24Neg-8-R1.fastq.gz	warn	pass
+CD24Neg-8-R2	pass	0.0	warn	100.0	Sanger / Illumina 1.9	fail	pass	100.0	Conventional base calls	pass	warn	1099892.0	pass	fail	warn	52.0	62.6328129679	CD24Neg-8-R2.fastq.gz	warn	pass

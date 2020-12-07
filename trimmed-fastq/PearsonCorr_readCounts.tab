@@ -1,0 +1,10 @@
+#plotCorrelation --outFileCorMatrix
+	'CD24Mid-1.sort.filtered.bam'	'CD24Mid-3.sort.filtered.bam'	'CD24Mid-5.sort.filtered.bam'	'CD24Mid-7.sort.filtered.bam'	'CD24Neg-6.sort.filtered.bam'	'CD24Neg-2.sort.filtered.bam'	'CD24Neg-4.sort.filtered.bam'	'CD24Neg-8.sort.filtered.bam'
+'CD24Mid-1.sort.filtered.bam'	1.0000	0.9810	0.9697	0.9641	0.7370	0.8318	0.7770	0.7745
+'CD24Mid-3.sort.filtered.bam'	0.9810	1.0000	0.9840	0.9759	0.6873	0.7631	0.7254	0.7175
+'CD24Mid-5.sort.filtered.bam'	0.9697	0.9840	1.0000	0.9954	0.7039	0.7660	0.7312	0.7302
+'CD24Mid-7.sort.filtered.bam'	0.9641	0.9759	0.9954	1.0000	0.7115	0.7744	0.7381	0.7405
+'CD24Neg-6.sort.filtered.bam'	0.7370	0.6873	0.7039	0.7115	1.0000	0.9469	0.9865	0.9522
+'CD24Neg-2.sort.filtered.bam'	0.8318	0.7631	0.7660	0.7744	0.9469	1.0000	0.9755	0.9816
+'CD24Neg-4.sort.filtered.bam'	0.7770	0.7254	0.7312	0.7381	0.9865	0.9755	1.0000	0.9760
+'CD24Neg-8.sort.filtered.bam'	0.7745	0.7175	0.7302	0.7405	0.9522	0.9816	0.9760	1.0000

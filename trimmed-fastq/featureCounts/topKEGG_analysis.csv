@@ -1,0 +1,21 @@
+"","Pathway","N","Up","Down","P.Up","P.Down"
+"path:mmu01100","Metabolic pathways",93,48,20,8.87029714091784e-05,0.999708538597605
+"path:mmu04668","TNF signaling pathway",12,10,2,0.000471552679631839,0.968651102399995
+"path:mmu00071","Fatty acid degradation",4,4,0,0.0118056556863839,1
+"path:mmu04144","Endocytosis",23,13,4,0.0163791964269828,0.989137586922003
+"path:mmu04371","Apelin signaling pathway",10,7,2,0.0182848665285692,0.932232877295414
+"path:mmu05152","Tuberculosis",8,6,1,0.0184617610183112,0.975191749745848
+"path:mmu03320","PPAR signaling pathway",3,3,0,0.0359088693794176,1
+"path:mmu04964","Proximal tubule bicarbonate reclamation",3,3,0,0.0359088693794176,1
+"path:mmu00600","Sphingolipid metabolism",3,3,0,0.0359088693794176,1
+"path:mmu00380","Tryptophan metabolism",3,3,0,0.0359088693794176,1
+"path:mmu04066","HIF-1 signaling pathway",9,6,2,0.040098750184652,0.901470930417948
+"path:mmu00565","Ether lipid metabolism",5,4,0,0.0435301940175748,1
+"path:mmu04130","SNARE interactions in vesicular transport",5,4,0,0.0435301940175748,1
+"path:mmu01200","Carbon metabolism",8,5,2,0.0843356311765685,0.858064273136083
+"path:mmu04932","Non-alcoholic fatty liver disease",8,5,1,0.0843356311765685,0.975191749745848
+"path:mmu04640","Hematopoietic cell lineage",6,4,0,0.0967898713617483,1
+"path:mmu04146","Peroxisome",6,4,1,0.0967898713617483,0.937301090958549
+"path:mmu00310","Lysine degradation",4,3,0,0.108218510458519,1
+"path:mmu04726","Serotonergic synapse",4,3,0,0.108218510458519,1
+"path:mmu00220","Arginine biosynthesis",2,2,0,0.109032385206595,1

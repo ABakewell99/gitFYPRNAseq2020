@@ -1,0 +1,41 @@
+Module	Section	Sample Name	Source
+Cutadapt	all_sections	CD24Neg-2-R2	/mnt/d/RNA-Seq/qc-reports/CD24Neg-2.cutadaptQC.txt
+Cutadapt	all_sections	CD24Mid-1-R2	/mnt/d/RNA-Seq/qc-reports/CD24Mid-1.cutadaptQC.txt
+Cutadapt	all_sections	CD24Mid-7-R2	/mnt/d/RNA-Seq/qc-reports/CD24Mid-7.cutadaptQC.txt
+Cutadapt	all_sections	CD24Neg-4-R2	/mnt/d/RNA-Seq/qc-reports/CD24Neg-4.cutadaptQC.txt
+Cutadapt	all_sections	CD24Neg-6-R2	/mnt/d/RNA-Seq/qc-reports/CD24Neg-6.cutadaptQC.txt
+Cutadapt	all_sections	CD24Mid-3-R2	/mnt/d/RNA-Seq/qc-reports/CD24Mid-3.cutadaptQC.txt
+Cutadapt	all_sections	CD24Neg-8-R2	/mnt/d/RNA-Seq/qc-reports/CD24Neg-8.cutadaptQC.txt
+Cutadapt	all_sections	CD24Mid-5-R2	/mnt/d/RNA-Seq/qc-reports/CD24Mid-5.cutadaptQC.txt
+FastQC	all_sections	CD24Neg-2-R1	/mnt/d/RNA-Seq/raw-fastq/CD24Neg-2-R1_fastqc.zip
+FastQC	all_sections	CD24Neg-2-R2	/mnt/d/RNA-Seq/raw-fastq/CD24Neg-2-R2_fastqc.zip
+FastQC	all_sections	CD24Mid-1-R1	/mnt/d/RNA-Seq/raw-fastq/CD24Mid-1-R1_fastqc.zip
+FastQC	all_sections	CD24Mid-1-R2	/mnt/d/RNA-Seq/raw-fastq/CD24Mid-1-R2_fastqc.zip
+FastQC	all_sections	CD24Mid-7-R2	/mnt/d/RNA-Seq/raw-fastq/CD24Mid-7-R2_fastqc.zip
+FastQC	all_sections	CD24Neg-4-R2	/mnt/d/RNA-Seq/raw-fastq/CD24Neg-4-R2_fastqc.zip
+FastQC	all_sections	CD24Neg-4-R1	/mnt/d/RNA-Seq/raw-fastq/CD24Neg-4-R1_fastqc.zip
+FastQC	all_sections	CD24Mid-7-R1	/mnt/d/RNA-Seq/raw-fastq/CD24Mid-7-R1_fastqc.zip
+FastQC	all_sections	CD24Neg-6-R1	/mnt/d/RNA-Seq/raw-fastq/CD24Neg-6-R1_fastqc.zip
+FastQC	all_sections	CD24Neg-6-R2	/mnt/d/RNA-Seq/raw-fastq/CD24Neg-6-R2_fastqc.zip
+FastQC	all_sections	CD24Mid-3-R2	/mnt/d/RNA-Seq/raw-fastq/CD24Mid-3-R2_fastqc.zip
+FastQC	all_sections	CD24Neg-8-R2	/mnt/d/RNA-Seq/raw-fastq/CD24Neg-8-R2_fastqc.zip
+FastQC	all_sections	CD24Neg-8-R1	/mnt/d/RNA-Seq/raw-fastq/CD24Neg-8-R1_fastqc.zip
+FastQC	all_sections	CD24Mid-3-R1	/mnt/d/RNA-Seq/raw-fastq/CD24Mid-3-R1_fastqc.zip
+FastQC	all_sections	CD24Mid-5-R1	/mnt/d/RNA-Seq/raw-fastq/CD24Mid-5-R1_fastqc.zip
+FastQC	all_sections	CD24Mid-5-R2	/mnt/d/RNA-Seq/raw-fastq/CD24Mid-5-R2_fastqc.zip
+featureCounts	all_sections	CD24Mid-5.filtered	/mnt/d/RNA-Seq/trimmed-fastq/featureCounts/CD24Mid-5.counts2.txt.summary
+featureCounts	all_sections	CD24Neg-4.filtered	/mnt/d/RNA-Seq/trimmed-fastq/featureCounts/CD24Neg-4.counts2.txt.summary
+featureCounts	all_sections	CD24Neg-2.filtered	/mnt/d/RNA-Seq/trimmed-fastq/featureCounts/CD24Neg-2.counts2.txt.summary
+featureCounts	all_sections	CD24Mid-3.filtered	/mnt/d/RNA-Seq/trimmed-fastq/featureCounts/CD24Mid-3.counts2.txt.summary
+featureCounts	all_sections	CD24Neg-8.filtered	/mnt/d/RNA-Seq/trimmed-fastq/featureCounts/CD24Neg-8.counts2.txt.summary
+featureCounts	all_sections	CD24Mid-1.filtered	/mnt/d/RNA-Seq/trimmed-fastq/featureCounts/CD24Mid-1.counts2.txt.summary
+featureCounts	all_sections	CD24Mid-7.filtered	/mnt/d/RNA-Seq/trimmed-fastq/featureCounts/CD24Mid-7.counts2.txt.summary
+featureCounts	all_sections	CD24Neg-6.filtered	/mnt/d/RNA-Seq/trimmed-fastq/featureCounts/CD24Neg-6.counts2.txt.summary
+Bowtie 2	all_sections	CD24Neg-6.hisat2QC	/mnt/d/RNA-Seq/trimmed-fastq/CD24Neg-6.hisat2QC.txt
+Bowtie 2	all_sections	CD24Neg-8.hisat2QC	/mnt/d/RNA-Seq/trimmed-fastq/CD24Neg-8.hisat2QC.txt
+Bowtie 2	all_sections	CD24Mid-3.hisat2QC	/mnt/d/RNA-Seq/trimmed-fastq/CD24Mid-3.hisat2QC.txt
+Bowtie 2	all_sections	CD24Neg-2.hisat2QC	/mnt/d/RNA-Seq/trimmed-fastq/CD24Neg-2.hisat2QC.txt
+Bowtie 2	all_sections	CD24Mid-7.hisat2QC	/mnt/d/RNA-Seq/trimmed-fastq/CD24Mid-7.hisat2QC.txt
+Bowtie 2	all_sections	CD24Mid-1.hisat2QC	/mnt/d/RNA-Seq/trimmed-fastq/CD24Mid-1.hisat2QC.txt
+Bowtie 2	all_sections	CD24Mid-5.hisat2QC	/mnt/d/RNA-Seq/trimmed-fastq/CD24Mid-5.hisat2QC.txt
+Bowtie 2	all_sections	CD24Neg-4.hisat2QC	/mnt/d/RNA-Seq/trimmed-fastq/CD24Neg-4.hisat2QC.txt
